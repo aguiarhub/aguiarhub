@@ -7,6 +7,8 @@
 specifically in Boituva-SP. I love astrophysics, and I really belive we can reach a good 
 symphony between astrophysics and programming.
 
+<br>
+
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=aguiarhub&show_icons=false&theme=tokyonight&include_all_comits=true&count_private=true" alt="188em">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguiarhub&layout=compact&langs_count=16&theme=tokyonight" alt="188em">
