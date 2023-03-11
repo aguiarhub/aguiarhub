@@ -7,14 +7,6 @@
 specifically in Boituva-SP. I love astrophysics, and I really belive we can reach a good 
 symphony between astrophysics and programming.
 
-#  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=aguiarhub&show_icons=false&theme=tokyonight&include_all_comits=true&count_private=true" alt="188em">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguiarhub&layout=compact&langs_count=16&theme=tokyonight" alt="188em">
