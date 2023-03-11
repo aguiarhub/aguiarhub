@@ -11,7 +11,6 @@ symphony between astrophysics and programming.
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=aguiarhub&show_icons=false&theme=merko&include_all_comits=true&count_private=true" alt="188em">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguiarhub&layout=compact&langs_count=16&theme=merko" alt="188em">
 </div>
 
 <div>
@@ -25,4 +24,9 @@ symphony between astrophysics and programming.
     <img align="center" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
     <img align="center" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />   
     <img align="center" alt="Csharp" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <br>
+    <h3>😎 As mais usadas</h3>
+    <br>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguiarhub&layout=compact&langs_count=16&theme=merko" alt="188em">
 </div>
+
